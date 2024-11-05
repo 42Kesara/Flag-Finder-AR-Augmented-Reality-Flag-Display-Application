@@ -55,14 +55,6 @@ Flag Finder AR is more than just an app—it’s a tool for learning and engagem
 ![Capturessss](https://github.com/user-attachments/assets/cc8ea968-3071-4a5d-8a44-399a701a375f)
 ![Capture22](https://github.com/user-attachments/assets/baaa4f44-e90f-4623-b402-c3dc620100a9)
 
-📲 Getting Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/42Kesara/flag-finder-ar.git
-Open the project in Unity.
-Build and run on an AR-compatible device.
-
 🤝 Contributing
 Feel free to submit issues or pull requests if you’d like to improve Flag Finder AR.
 
