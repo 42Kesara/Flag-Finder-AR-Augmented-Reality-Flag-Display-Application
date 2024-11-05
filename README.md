@@ -52,7 +52,7 @@ Flag Finder AR is more than just an app—it’s a tool for learning and engagem
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/flag-finder-ar.git
+git clone https://github.com/42Kesara/flag-finder-ar.git
 Open the project in Unity.
 Build and run on an AR-compatible device.
 🤝 Contributing
