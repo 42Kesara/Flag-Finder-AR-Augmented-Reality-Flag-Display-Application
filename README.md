@@ -46,7 +46,9 @@ Multilingual Support: Global accessibility with multiple languages.
 Flag Finder AR is more than just an app—it’s a tool for learning and engagement. By blending education and technology, we aim to foster global awareness through the visualization of national flags.
 
 🖼️ Screenshots
-<!-- Insert image links here -->
+![Capturessss](https://github.com/user-attachments/assets/cc8ea968-3071-4a5d-8a44-399a701a375f)
+![Capture22](https://github.com/user-attachments/assets/baaa4f44-e90f-4623-b402-c3dc620100a9)
+
 
 📲 Getting Started
 Clone the repository:
