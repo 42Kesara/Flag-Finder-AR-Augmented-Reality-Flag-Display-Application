@@ -4,7 +4,7 @@ An interactive AR application for discovering flags of the world through your sm
 Welcome to Flag Finder AR, a unique way to view national flags in 3D by simply pointing your device at specific country maps. Designed with a focus on education, tourism, and cultural learning, this app brings national symbols to life with augmented reality!
 
 Project created by 
-Kesara Lakpriya
+Kesara Lakpriya and
 Iffath Hana
 
 🚀 Project Overview
